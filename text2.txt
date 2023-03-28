@@ -1,0 +1,1 @@
+this is the second text file we are creating to understand git working .
